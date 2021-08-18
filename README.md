@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi, im Son 😄 </h1>
-
+<h3 align="center"> Welcome to my github profile 👯 </h3>
 <br />
 
 <div align="center"
