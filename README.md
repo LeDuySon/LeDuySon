@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align:center"> Hi, i'm Son 😄 </h1>
+<h1 align="center"> Hi, im Son 😄 </h1>
+
+<br />
+
+<div align="center"
+
+[![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeDuySon&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<br>
