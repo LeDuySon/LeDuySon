@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hi, im Son 😄 </h1>
+<h1 align="center"> Hi, i'm Son 😄 </h1>
 <h3 align="center"> Welcome to my github profile 👯 </h3>
 <br />
 
