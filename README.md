@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center"
 
-<!-- [![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeDuySon&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeDuySon&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
