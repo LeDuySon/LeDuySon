@@ -1,28 +1,60 @@
-
-
 <!--
 **LeDuySon/LeDuySon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hi, i'm Son 😄 </h1>
-<h3 align="center"> Welcome to my github profile 👯 </h3>
+<h1 align="center"> Hi, I'm Son 😄 </h1>
+<h3 align="center"> Welcome to my GitHub profile 👯 </h3>
 <br />
 
-<div align="center"
+<div align="center">
 
-[![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeDuySon&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeDuySon&count_private=True&theme=material-palenight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <br>
+
+## 🛠️ Tech Interests
+- AI Systems
+- DevOps / Operations
+- Docker & Cloud Infrastructure
+- Full-Stack Development
+
+## 📊 GitHub Stats
+
+![](./profile/stats.svg)
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeDuySon&theme=material-palenight&hide_border=false" alt="LeDuySon" /></p>
+
+![](./profile/top-langs.svg)
+
+![](./profile/trophy.svg)
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LeDuySon/LeDuySon/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LeDuySon/LeDuySon/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/LeDuySon/LeDuySon/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
+<div align="center">
+
+### 👋 Let's Connect!
+
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leduyson@gmail.com)](mailto:leduyson@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/leduyson)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/LeDuySon)
+
+</div>
+
+<br>
+
+<div align="center">
+  <i>⚡ Fun fact: I love turning coffee into code and bugs into features! ☕</i>
+</div>
