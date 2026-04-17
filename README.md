@@ -54,17 +54,17 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   76 repos            ████████████████████░░░░░   81.72% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-Jupyter Notebook         3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-Smarty                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
+Python                   76 repos            ████████████████████░░░░░   80.85% 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
+JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
+Jupyter Notebook         3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
+Smarty                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
 ```
 
 
 
- Last Updated on 16/04/2026
+ Last Updated on 17/04/2026
 <!--END_SECTION:waka-->
 
 <br>
